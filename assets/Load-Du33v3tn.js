@@ -1,0 +1,1 @@
+import{ae as o,c as a,e as n,b as s}from"./index-CoWgc5c_.js";const l={__name:"Load",setup(c){const{proxy:e}=o(),t=()=>{e.$showLoading(),setTimeout(()=>{e.$hideLoading()},3e3)};return(r,u)=>(s(),a("div",null,[n("input",{type:"button",value:"++",onClick:t})]))}};export{l as default};

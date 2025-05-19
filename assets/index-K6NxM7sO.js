@@ -1,0 +1,1 @@
+import{_ as e,j as o,b as n,M as s}from"./index-CoWgc5c_.js";const t={__name:"index",props:{icon:{type:[Object,Function],required:!0}},setup(c){return(r,a)=>(n(),o(s(c.icon),{class:"svg-icon"}))}},p=e(t,[["__scopeId","data-v-664d447c"]]);export{p as S};
